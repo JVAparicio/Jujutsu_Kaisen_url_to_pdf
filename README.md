@@ -14,7 +14,7 @@
     pipenv --python 3.10
 
 ### Install the necessary packages
-    pipenv install requirements.txt
+    pipenv install -r requirements.txt
 
 ### Start the virtual environment
     pipenv shell
